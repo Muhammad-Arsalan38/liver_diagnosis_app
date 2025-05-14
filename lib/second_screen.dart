@@ -772,6 +772,7 @@ class ResultsScreen extends StatelessWidget {
                           children: [
                             Padding(
                               padding: EdgeInsets.symmetric(vertical: 8),
+                              
                               child: Text(entry.key),
                             ),
                             Padding(
